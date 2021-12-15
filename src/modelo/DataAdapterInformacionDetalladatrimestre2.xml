@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beanDataAdapter class="net.sf.jasperreports.data.bean.BeanDataAdapterImpl"><name>InformacionDetalladaTrimestre2</name><factoryClass>pruebaxml.TestFactoryInformacionDetalladaTrimestre2</factoryClass><methodName>createBeanCollection</methodName><useFieldDescription>false</useFieldDescription></beanDataAdapter>

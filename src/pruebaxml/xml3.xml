@@ -1,0 +1,2235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<Informe fechaConsulta="2021-10-01T14:32:09" respuesta="13" codSeguridad="SQ32297" tipoIdDigitado="1" identificacionDigitada="1026250292" apellidoDigitado="GALINDO">
+		<NaturalNacional nombres="DORIS ANGELICA" primerApellido="GALINDO" segundoApellido="TORO" nombreCompleto="GALINDO TORO DORIS ANGELICA" validada="true" rut="true" genero="3">
+			<Identificacion estado="00" fechaExpedicion="2004-03-02" ciudad="BOGOTA D.C." departamento="CUNDINAMAR" genero="3" numero="01026250292"/>
+			<Edad min="29" max="35"/>
+			<InfoDemografica/>
+		</NaturalNacional>
+		<Score tipo="67" puntaje="813.0" fecha="2021-10-01" poblacion="95">
+			<Razon codigo="00099"/>
+			<Razon codigo="00000"/>
+		</Score>
+		<CuentaAhorro bloqueada="false" entidad="BCO DE BOGOTA" numero="019359959" fechaApertura="2002-04-12" calificacion="0" situacionTitular="0" oficina="0019 BARRIO RESTREPO" ciudad="BOGOTA  D C" codigoDaneCiudad="00000000" tipoIdentificacion="2" identificacion="00860002964" sector="1">
+			<Caracteristicas clase="3"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-03-31" calificacion="-"/>
+			</Valores>
+			<Estado codigo="01" fecha="2021-03-31"/>
+			<Llave>10102625029251002001019359959000000000</Llave>
+		</CuentaAhorro>
+		<CuentaAhorro bloqueada="false" entidad="BCO DE BOGOTA" numero="019618552" fechaApertura="2018-04-03" situacionTitular="0" oficina="0019 BARRIO RESTREPO" ciudad="BOGOTA  D C" codigoDaneCiudad="11001000" tipoIdentificacion="2" identificacion="00860002964" sector="1">
+			<Caracteristicas clase="0"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-10-31" calificacion="-"/>
+			</Valores>
+			<Estado codigo="09" fecha="2018-10-31"/>
+			<Llave>10102625029251002001019618552000000000</Llave>
+		</CuentaAhorro>
+		<CuentaAhorro bloqueada="false" entidad="CUENTA         NEQUI" numero="704429425" fechaApertura="2020-05-13" calificacion="1" situacionTitular="0" oficina="Banca Digital" ciudad="Medellin" codigoDaneCiudad="00000000" tipoIdentificacion="2" identificacion="00890903938" sector="1">
+			<Caracteristicas clase="0"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-12-31" calificacion="1"/>
+			</Valores>
+			<Estado codigo="05" fecha="2020-12-31"/>
+			<Llave>10102625029251002101704429425000000000</Llave>
+		</CuentaAhorro>
+		<TarjetaCredito bloqueada="false" entidad="BCO DE BOGOTA" numero="450668694" fechaApertura="2007-09-19" fechaVencimiento="2021-12-31" comportamiento="NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN " formaPago="0" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="0019-BARRIO RESTREPO" ciudad="BOGOTA DC" codigoDaneCiudad="00000000" tipoIdentificacion="2" identificacion="00860002964" sector="1" calificacionHD="true">
+			<Caracteristicas franquicia="2" clase="1" marca="000" amparada="false" codigoAmparada="00" garantia="Q"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-03-31" calificacion="1" saldoActual="575000.0" saldoMora="0.0" disponible="0.0" cuota="29000.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2021-03-31" fechaLimitePago="2021-04-19" cupoTotal="0.0"/>
+			</Valores>
+			<Estados>
+				<EstadoPlastico codigo="1" fecha="2016-04-29"/>
+				<EstadoCuenta codigo="01" fecha="2021-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2021-03-31"/>
+				<EstadoPago codigo="01" meses="48" fecha="2021-03-31"/>
+			</Estados>
+			<Llave>10102625029202002002450668694000000000</Llave>
+		</TarjetaCredito>
+		<TarjetaCredito bloqueada="false" entidad="CREDIFACIL     COLPATRIA" numero="000000292" fechaApertura="2018-08-26" fechaVencimiento="2049-12-31" comportamiento="NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN---------------- " formaPago="0" probabilidadIncumplimiento="1.0" calificacion="0" situacionTitular="0" oficina="BOGOTA CARRERA DECIMA" ciudad="" codigoDaneCiudad="00000000" tipoIdentificacion="2" identificacion="00860034594" sector="1" calificacionHD="true">
+			<Caracteristicas franquicia="5" clase="4" marca="010" amparada="false" codigoAmparada="00" garantia="Q"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-03-31" calificacion="-" saldoActual="236000.0" saldoMora="0.0" disponible="5866000.0" cuota="51000.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2021-03-12" fechaLimitePago="2021-04-16" cupoTotal="6060000.0"/>
+			</Valores>
+			<Estados>
+				<EstadoPlastico codigo="1" fecha="2020-08-12"/>
+				<EstadoCuenta codigo="01" fecha="2021-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-08-26"/>
+				<EstadoPago codigo="01" meses="48" fecha="2021-03-31"/>
+			</Estados>
+			<Llave>10102625029202020802000000292000000000</Llave>
+		</TarjetaCredito>
+		<TarjetaCredito bloqueada="false" entidad="SERFINANSA S.A SAO" numero="899800382" fechaApertura="2012-12-07" fechaVencimiento="2020-12-10" comportamiento="NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN " formaPago="0" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="BOGOTA SUBA" ciudad="BOGOTA - DISTRITO CA" codigoDaneCiudad="00000000" tipoIdentificacion="2" identificacion="00860043186" sector="1" calificacionHD="true">
+			<Caracteristicas franquicia="5" clase="4" marca="000" amparada="false" codigoAmparada="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-03-31" calificacion="1" saldoActual="0.0" saldoMora="0.0" disponible="900000.0" cuota="0.0" cuotasMora="0" diasMora="0" fechaLimitePago="2021-03-31" cupoTotal="900000.0"/>
+			</Valores>
+			<Estados>
+				<EstadoPlastico codigo="1" fecha="2021-10-01"/>
+				<EstadoCuenta codigo="01" fecha="2021-03-30"/>
+				<EstadoOrigen codigo="0" fecha="2012-12-07"/>
+				<EstadoPago codigo="01" meses="48" fecha="2021-03-30"/>
+			</Estados>
+			<Llave>10102625029202033702899800382000000000</Llave>
+		</TarjetaCredito>
+		<CuentaCartera bloqueada="false" entidad="NOVAVENTA S A" numero="026250292" fechaApertura="2016-11-24" fechaVencimiento="2021-03-11" comportamiento="NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN " formaPago="0" probabilidadIncumplimiento="0.0" calificacion="0" situacionTitular="0" oficina="MEDELLINPRINCIPAL" ciudad="MEDELLIN" codigoDaneCiudad="05001000" codSuscriptor="310205" tipoIdentificacion="2" identificacion="00811025289" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="ALI" tipoObligacion="4" tipoContrato="2" ejecucionContrato="4" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-03-31" calificacion="-" saldoActual="51000.0" saldoMora="0.0" disponible="-1" cuota="51000.0" cuotasMora="0" diasMora="0" fechaLimitePago="2021-03-31" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="0"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="01" fecha="2021-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2021-03-12"/>
+				<EstadoPago codigo="01" meses="48" fecha="2021-03-31"/>
+			</Estados>
+			<Llave>10102625029231020531026250292000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BANCO          PICHINCHA S.A." numero="001610749" fechaApertura="2011-07-22" fechaVencimiento="2011-12-15" comportamiento="NNNN------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="NO INFORMO" ciudad="" codigoDaneCiudad="00000000" codSuscriptor="050062" tipoIdentificacion="2" identificacion="00890200756" sector="1" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CAB" tipoObligacion="2" tipoContrato="0" ejecucionContrato="2" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores/>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2011-12-13"/>
+				<EstadoOrigen codigo="0" fecha="2011-07-22"/>
+				<EstadoPago codigo="08" meses="48" fecha="2011-11-30"/>
+			</Estados>
+			<Llave>10102625029205006205001610749000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BCO DE BOGOTA" numero="157319415" fechaApertura="2013-03-01" fechaVencimiento="2017-05-09" comportamiento="--NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="0019-BARRIO RESTREPO" ciudad="BOGOTA, D.C." codigoDaneCiudad="11001000" codSuscriptor="130020" tipoIdentificacion="2" identificacion="00860002964" sector="1" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CAV" tipoObligacion="3" tipoContrato="1" ejecucionContrato="3" mesesPermanencia="0" calidadDeudor="00" garantia="B"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-08-31" calificacion="1" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-05-31" fechaLimitePago="2017-05-09" periodicidad="1" totalCuotas="0" valorInicial="60527000.0" cuotasCanceladas="53"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="00" fecha="2017-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2013-03-01"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-08-31"/>
+			</Estados>
+			<Llave>10102625029213002013157319415000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="RED BANCO CAJA SOCIAL BCSC" numero="205829807" fechaApertura="2011-11-09" fechaVencimiento="2017-05-09" comportamiento="NNNNNNNNNNNNNN--------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="NO INFORMO" ciudad="" codigoDaneCiudad="00000000" codSuscriptor="130101" tipoIdentificacion="2" identificacion="00860007335" sector="1" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CAV" tipoObligacion="3" tipoContrato="0" ejecucionContrato="3" mesesPermanencia="0" calidadDeudor="05" garantia="1"/>
+			<Valores/>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2013-03-08"/>
+				<EstadoOrigen codigo="0" fecha="2011-11-09"/>
+				<EstadoPago codigo="08" meses="48" fecha="2013-03-08"/>
+			</Estados>
+			<Llave>10102625029213010113205829807000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="AVON           COLOMBIA SAS" numero="026250292" fechaApertura="2013-07-16" fechaVencimiento="2021-05-06" comportamiento="--N--N-N----NN--NN-NNNNNN-NNNNNNNNNNNNNNNNN-NNN " formaPago="0" probabilidadIncumplimiento="0.0" calificacion="0" situacionTitular="0" oficina="AVON" ciudad="MEDELLIN" codigoDaneCiudad="00000000" codSuscriptor="321723" tipoIdentificacion="2" identificacion="00900041914" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CMZ" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-04-30" calificacion="-" saldoActual="150000.0" saldoMora="0.0" disponible="0.0" cuota="150000.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2021-02-20" fechaLimitePago="2021-05-06" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="0"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="01" fecha="2021-04-24"/>
+				<EstadoOrigen codigo="0" fecha="2013-07-16"/>
+				<EstadoPago codigo="01" meses="48" fecha="2021-04-24"/>
+			</Estados>
+			<Llave>10102625029232172332026250292000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="LEBON" numero="026250292" fechaApertura="2013-07-24" fechaVencimiento="2020-11-10" comportamiento="N--------N-NNNNN-NNN-N-NNNN--NNNNN-N-NNNNNNNNNN " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="SEDE LEBON" ciudad="LA ESTRELLA" codigoDaneCiudad="05380000" codSuscriptor="320377" tipoIdentificacion="2" identificacion="00811037864" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CMZ" tipoObligacion="1" tipoContrato="1" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-11-30" calificacion="1" saldoActual="0.0" saldoMora="0.0" disponible="0.0" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-11-30" fechaLimitePago="2020-11-29" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-11-30"/>
+				<EstadoOrigen codigo="0" fecha="2020-11-13"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-11-30"/>
+			</Estados>
+			<Llave>10102625029232037732026250292000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="MOVISTAR" numero="2587-6572" fechaApertura="2017-03-16" fechaVencimiento="2020-08-31" comportamiento="----------------NNNNNNNNNNNNNNNNNNNNNNNNN------ " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="11" ciudad="001000BOGOTA DC" codigoDaneCiudad="00000000" codSuscriptor="340114" tipoIdentificacion="2" identificacion="00830037330" sector="4" calificacionHD="true">
+			<Caracteristicas tipoCuenta="COM" tipoObligacion="4" tipoContrato="1" ejecucionContrato="4" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-08-31" calificacion="1" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-02-18" periodicidad="1" totalCuotas="0" valorInicial="-1" cuotasCanceladas="0"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-03-16"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-08-31"/>
+			</Estados>
+			<Llave>101026250292340114342587-6572000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="MOVISTAR" numero="008874799" fechaApertura="2009-07-09" fechaVencimiento="2010-12-31" comportamiento="N-NNNNNNNNN------------------------------------ " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="NO INFORMO" ciudad="" codigoDaneCiudad="00000000" codSuscriptor="230001" tipoIdentificacion="2" identificacion="00830037330" sector="4" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CTC" tipoObligacion="4" tipoContrato="1" ejecucionContrato="4" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores/>
+			<Estados>
+				<EstadoCuenta codigo="01" fecha="2010-06-30"/>
+				<EstadoOrigen codigo="0" fecha="2009-07-09"/>
+				<EstadoPago codigo="08" meses="48" fecha="2010-06-30"/>
+			</Estados>
+			<Llave>10102625029223000123008874799000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="MOVISTAR" numero="009730772" fechaApertura="2009-12-17" fechaVencimiento="2010-12-31" comportamiento="---N-NN---------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="NO INFORMO" ciudad="" codigoDaneCiudad="00000000" codSuscriptor="230001" tipoIdentificacion="2" identificacion="00830037330" sector="4" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CTC" tipoObligacion="4" tipoContrato="1" ejecucionContrato="4" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores/>
+			<Estados>
+				<EstadoCuenta codigo="01" fecha="2010-07-31"/>
+				<EstadoOrigen codigo="0" fecha="2009-12-17"/>
+				<EstadoPago codigo="08" meses="48" fecha="2010-07-31"/>
+			</Estados>
+			<Llave>10102625029223000123009730772000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="MOVISTAR" numero="023962587" fechaApertura="2013-10-07" fechaVencimiento="2021-02-28" comportamiento="NNNN-----------NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="BOGOTA" ciudad="BOGOTA DC" codigoDaneCiudad="11001000" codSuscriptor="230001" tipoIdentificacion="2" identificacion="00830037330" sector="4" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CTC" tipoObligacion="4" tipoContrato="2" ejecucionContrato="4" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-02-28" calificacion="1" saldoActual="0.0" saldoMora="0.0" disponible="0.0" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-08-21" fechaLimitePago="2021-02-28" periodicidad="1" totalCuotas="-1" valorInicial="-1" cuotasCanceladas="-1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2021-02-28"/>
+				<EstadoOrigen codigo="0" fecha="2016-01-01"/>
+				<EstadoPago codigo="08" meses="48" fecha="2021-02-28"/>
+			</Estados>
+			<Llave>10102625029223000123023962587000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="MARKETING      PERSONAL S.A." numero="026250292" fechaApertura="2018-11-22" fechaVencimiento="2021-04-08" comportamiento="---NNN-NNNNNNNNNNN-NNNNN----------------------- " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="0" situacionTitular="0" oficina="MARKETING PERSONAL" ciudad="MEDELLIN" codigoDaneCiudad="00000000" codSuscriptor="090200" tipoIdentificacion="2" identificacion="00811018771" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="CVE" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-03-31" calificacion="-" saldoActual="192000.0" saldoMora="0.0" disponible="-1" cuota="192000.0" cuotasMora="0" diasMora="0" fechaLimitePago="2021-04-08" periodicidad="6" totalCuotas="1" valorInicial="192000.0" cuotasCanceladas="0"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="01" fecha="2021-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2021-03-25"/>
+				<EstadoPago codigo="01" meses="48" fecha="2021-03-31"/>
+			</Estados>
+			<Llave>10102625029209020009026250292000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="204461550" fechaApertura="2016-08-12" fechaVencimiento="2016-09-01" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2016-08-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaLimitePago="2016-09-01" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2016-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2016-08-12"/>
+				<EstadoPago codigo="08" meses="48" fecha="2016-08-31"/>
+			</Estados>
+			<Llave>10102625029239003939204461550000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="206671540" fechaApertura="2016-09-05" fechaVencimiento="2016-09-22" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2016-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2016-09-30" fechaLimitePago="2016-09-22" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2016-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2016-09-05"/>
+				<EstadoPago codigo="08" meses="48" fecha="2016-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939206671540000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="208795660" fechaApertura="2016-09-26" fechaVencimiento="2016-10-12" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2016-10-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2016-10-31" fechaLimitePago="2016-10-12" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2016-10-31"/>
+				<EstadoOrigen codigo="0" fecha="2016-09-26"/>
+				<EstadoPago codigo="08" meses="48" fecha="2016-10-31"/>
+			</Estados>
+			<Llave>10102625029239003939208795660000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="210806120" fechaApertura="2016-10-14" fechaVencimiento="2016-11-02" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2016-11-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2016-11-24" fechaLimitePago="2016-11-02" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2016-11-30"/>
+				<EstadoOrigen codigo="0" fecha="2016-10-14"/>
+				<EstadoPago codigo="08" meses="48" fecha="2016-11-30"/>
+			</Estados>
+			<Llave>10102625029239003939210806120000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="212728530" fechaApertura="2016-11-04" fechaVencimiento="2016-11-24" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2016-11-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2016-11-30" fechaLimitePago="2016-11-24" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2016-11-30"/>
+				<EstadoOrigen codigo="0" fecha="2016-11-04"/>
+				<EstadoPago codigo="08" meses="48" fecha="2016-11-30"/>
+			</Estados>
+			<Llave>10102625029239003939212728530000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="214879170" fechaApertura="2016-11-28" fechaVencimiento="2016-12-14" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2016-12-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2016-12-31" fechaLimitePago="2016-12-14" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2016-12-31"/>
+				<EstadoOrigen codigo="0" fecha="2016-11-28"/>
+				<EstadoPago codigo="08" meses="48" fecha="2016-12-31"/>
+			</Estados>
+			<Llave>10102625029239003939214879170000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="216545630" fechaApertura="2016-12-16" fechaVencimiento="2017-01-04" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2016-12-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2016-12-31" fechaLimitePago="2017-01-04" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2016-12-31"/>
+				<EstadoOrigen codigo="0" fecha="2016-12-16"/>
+				<EstadoPago codigo="08" meses="48" fecha="2016-12-31"/>
+			</Estados>
+			<Llave>10102625029239003939216545630000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="219382220" fechaApertura="2017-01-06" fechaVencimiento="2017-01-25" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-01-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-01-25" fechaLimitePago="2017-01-25" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-01-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-01-06"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-01-31"/>
+			</Estados>
+			<Llave>10102625029239003939219382220000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="221443620" fechaApertura="2017-01-30" fechaVencimiento="2017-02-14" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-02-28" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-02-28" fechaLimitePago="2017-02-14" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-02-28"/>
+				<EstadoOrigen codigo="0" fecha="2017-01-30"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-02-28"/>
+			</Estados>
+			<Llave>10102625029239003939221443620000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="223333010" fechaApertura="2017-02-16" fechaVencimiento="2017-03-02" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-03-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-03-23" fechaLimitePago="2017-03-02" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-02-16"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-03-31"/>
+			</Estados>
+			<Llave>10102625029239003939223333010000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="225280830" fechaApertura="2017-03-06" fechaVencimiento="2017-03-23" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-03-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-03-31" fechaLimitePago="2017-03-23" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-03-06"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-03-31"/>
+			</Estados>
+			<Llave>10102625029239003939225280830000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="227217360" fechaApertura="2017-03-27" fechaVencimiento="2017-04-11" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-04-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-04-30" fechaLimitePago="2017-04-11" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-04-30"/>
+				<EstadoOrigen codigo="0" fecha="2017-03-27"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-04-30"/>
+			</Estados>
+			<Llave>10102625029239003939227217360000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="229081130" fechaApertura="2017-04-17" fechaVencimiento="2017-05-02" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-05-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-05-23" fechaLimitePago="2017-05-02" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-05-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-04-17"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-05-31"/>
+			</Estados>
+			<Llave>10102625029239003939229081130000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="234889800" fechaApertura="2017-06-15" fechaVencimiento="2017-06-28" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-06-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-06-30" fechaLimitePago="2017-06-28" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-06-30"/>
+				<EstadoOrigen codigo="0" fecha="2017-06-15"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-06-30"/>
+			</Estados>
+			<Llave>10102625029239003939234889800000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="236226910" fechaApertura="2017-06-30" fechaVencimiento="2017-07-19" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-07-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-07-31" fechaLimitePago="2017-07-19" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-07-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-06-30"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-07-31"/>
+			</Estados>
+			<Llave>10102625029239003939236226910000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="238239870" fechaApertura="2017-07-24" fechaVencimiento="2017-08-10" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-08-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-08-31" fechaLimitePago="2017-08-10" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-07-24"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-08-31"/>
+			</Estados>
+			<Llave>10102625029239003939238239870000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="240090140" fechaApertura="2017-08-14" fechaVencimiento="2017-08-31" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-09-21" fechaLimitePago="2017-08-31" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2017-08-14"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939240090140000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="241870190" fechaApertura="2017-09-04" fechaVencimiento="2017-09-21" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-09-21" fechaLimitePago="2017-09-21" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2017-09-04"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939241870190000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="243746510" fechaApertura="2017-09-25" fechaVencimiento="2017-10-11" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-09-30" fechaLimitePago="2017-10-11" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2017-09-25"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939243746510000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="245418030" fechaApertura="2017-10-13" fechaVencimiento="2017-11-01" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-10-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-10-31" fechaLimitePago="2017-11-01" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-10-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-10-13"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-10-31"/>
+			</Estados>
+			<Llave>10102625029239003939245418030000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="249256310" fechaApertura="2017-11-27" fechaVencimiento="2017-12-14" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-12-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-12-14" fechaLimitePago="2017-12-14" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-12-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-11-27"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-12-31"/>
+			</Estados>
+			<Llave>10102625029239003939249256310000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="251053530" fechaApertura="2017-12-18" fechaVencimiento="2018-01-04" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2017-12-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2017-12-30" fechaLimitePago="2018-01-04" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2017-12-31"/>
+				<EstadoOrigen codigo="0" fecha="2017-12-18"/>
+				<EstadoPago codigo="08" meses="48" fecha="2017-12-31"/>
+			</Estados>
+			<Llave>10102625029239003939251053530000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="255640380" fechaApertura="2018-01-30" fechaVencimiento="2018-02-13" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-01-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-01-31" fechaLimitePago="2018-02-13" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-01-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-01-30"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-01-31"/>
+			</Estados>
+			<Llave>10102625029239003939255640380000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="257318540" fechaApertura="2018-02-15" fechaVencimiento="2018-03-01" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-02-28" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-02-28" fechaLimitePago="2018-03-01" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-02-28"/>
+				<EstadoOrigen codigo="0" fecha="2018-02-15"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-02-28"/>
+			</Estados>
+			<Llave>10102625029239003939257318540000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="259316990" fechaApertura="2018-03-05" fechaVencimiento="2018-03-20" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-03-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-03-22" fechaLimitePago="2018-03-20" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-03-05"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-03-31"/>
+			</Estados>
+			<Llave>10102625029239003939259316990000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="261192170" fechaApertura="2018-03-22" fechaVencimiento="2018-04-12" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-04-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-04-19" fechaLimitePago="2018-04-12" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-04-30"/>
+				<EstadoOrigen codigo="0" fecha="2018-03-22"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-04-30"/>
+			</Estados>
+			<Llave>10102625029239003939261192170000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="263638810" fechaApertura="2018-04-20" fechaVencimiento="2018-04-30" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-04-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-04-30" fechaLimitePago="2018-04-30" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-04-30"/>
+				<EstadoOrigen codigo="0" fecha="2018-04-20"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-04-30"/>
+			</Estados>
+			<Llave>10102625029239003939263638810000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="265412270" fechaApertura="2018-05-07" fechaVencimiento="2018-05-17" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-05-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-05-21" fechaLimitePago="2018-05-17" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-05-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-05-07"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-05-31"/>
+			</Estados>
+			<Llave>10102625029239003939265412270000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="267067300" fechaApertura="2018-05-21" fechaVencimiento="2018-06-06" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-05-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-05-31" fechaLimitePago="2018-06-06" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-05-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-05-21"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-05-31"/>
+			</Estados>
+			<Llave>10102625029239003939267067300000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="268990730" fechaApertura="2018-06-08" fechaVencimiento="2018-06-27" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-06-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-06-28" fechaLimitePago="2018-06-27" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-06-30"/>
+				<EstadoOrigen codigo="0" fecha="2018-06-08"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-06-30"/>
+			</Estados>
+			<Llave>10102625029239003939268990730000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="270747890" fechaApertura="2018-06-29" fechaVencimiento="2018-07-18" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-07-24" fechaLimitePago="2019-09-30" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2018-06-29"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939270747890000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="273070180" fechaApertura="2018-07-24" fechaVencimiento="2018-08-09" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-07-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-07-31" fechaLimitePago="2018-08-09" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-07-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-07-24"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-07-31"/>
+			</Estados>
+			<Llave>10102625029239003939273070180000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="274825830" fechaApertura="2018-08-13" fechaVencimiento="2018-08-30" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-08-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-08-31" fechaLimitePago="2018-08-30" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-08-13"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-08-31"/>
+			</Estados>
+			<Llave>10102625029239003939274825830000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="276923420" fechaApertura="2018-09-05" fechaVencimiento="2018-09-20" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-09-30" fechaLimitePago="2018-09-20" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2018-09-05"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939276923420000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="278787660" fechaApertura="2018-09-26" fechaVencimiento="2018-10-10" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-10-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-10-18" fechaLimitePago="2018-10-10" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-10-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-09-26"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-10-31"/>
+			</Estados>
+			<Llave>10102625029239003939278787660000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="282181570" fechaApertura="2018-11-02" fechaVencimiento="2018-11-22" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-11-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-11-28" fechaLimitePago="2018-11-22" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-11-30"/>
+				<EstadoOrigen codigo="0" fecha="2018-11-02"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-11-30"/>
+			</Estados>
+			<Llave>10102625029239003939282181570000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="284600640" fechaApertura="2018-11-28" fechaVencimiento="2018-12-13" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-11-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-11-30" fechaLimitePago="2018-12-13" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-11-30"/>
+				<EstadoOrigen codigo="0" fecha="2018-11-28"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-11-30"/>
+			</Estados>
+			<Llave>10102625029239003939284600640000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="286231560" fechaApertura="2018-12-17" fechaVencimiento="2019-01-04" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2018-12-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2018-12-31" fechaLimitePago="2019-01-04" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2018-12-31"/>
+				<EstadoOrigen codigo="0" fecha="2018-12-17"/>
+				<EstadoPago codigo="08" meses="48" fecha="2018-12-31"/>
+			</Estados>
+			<Llave>10102625029239003939286231560000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="291413780" fechaApertura="2019-01-29" fechaVencimiento="2019-02-14" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-02-28" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-02-13" fechaLimitePago="2019-02-14" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-02-28"/>
+				<EstadoOrigen codigo="0" fecha="2019-01-29"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-02-28"/>
+			</Estados>
+			<Llave>10102625029239003939291413780000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="293195010" fechaApertura="2019-02-14" fechaVencimiento="2019-02-28" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-02-28" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-02-28" fechaLimitePago="2019-02-28" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-02-28"/>
+				<EstadoOrigen codigo="0" fecha="2019-02-14"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-02-28"/>
+			</Estados>
+			<Llave>10102625029239003939293195010000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="295636650" fechaApertura="2019-03-06" fechaVencimiento="2019-03-20" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-03-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-03-31" fechaLimitePago="2019-03-20" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2019-03-06"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-03-31"/>
+			</Estados>
+			<Llave>10102625029239003939295636650000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="297523840" fechaApertura="2019-03-27" fechaVencimiento="2019-04-09" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-04-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-04-30" fechaLimitePago="2019-04-09" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-04-30"/>
+				<EstadoOrigen codigo="0" fecha="2019-03-27"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-04-30"/>
+			</Estados>
+			<Llave>10102625029239003939297523840000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="299181780" fechaApertura="2019-04-11" fechaVencimiento="2019-05-02" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-04-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-04-30" fechaLimitePago="2019-05-02" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-04-30"/>
+				<EstadoOrigen codigo="0" fecha="2019-04-11"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-04-30"/>
+			</Estados>
+			<Llave>10102625029239003939299181780000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="301536580" fechaApertura="2019-05-07" fechaVencimiento="2019-05-21" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-05-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-05-31" fechaLimitePago="2019-05-21" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-05-31"/>
+				<EstadoOrigen codigo="0" fecha="2019-05-07"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-05-31"/>
+			</Estados>
+			<Llave>10102625029239003939301536580000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="303715370" fechaApertura="2019-05-29" fechaVencimiento="2019-06-06" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-06-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-06-07" fechaLimitePago="2019-06-06" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="0"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-06-30"/>
+				<EstadoOrigen codigo="0" fecha="2019-05-29"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-06-30"/>
+			</Estados>
+			<Llave>10102625029239003939303715370000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="307184540" fechaApertura="2019-06-28" fechaVencimiento="2019-07-18" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-07-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-07-31" fechaLimitePago="2019-07-18" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-07-31"/>
+				<EstadoOrigen codigo="0" fecha="2019-06-28"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-07-31"/>
+			</Estados>
+			<Llave>10102625029239003939307184540000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="309512840" fechaApertura="2019-07-22" fechaVencimiento="2019-08-08" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR" ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-08-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-08-09" fechaLimitePago="2019-08-08" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="0"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2019-07-22"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-08-31"/>
+			</Estados>
+			<Llave>10102625029239003939309512840000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="313624180" fechaApertura="2019-09-02" fechaVencimiento="2019-09-19" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-09-30" fechaLimitePago="2019-09-30" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2019-09-02"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939313624180000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="319728570" fechaApertura="2019-11-08" fechaVencimiento="2019-11-21" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2019-11-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2019-11-30" fechaLimitePago="2019-11-21" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2019-11-30"/>
+				<EstadoOrigen codigo="0" fecha="2019-11-08"/>
+				<EstadoPago codigo="08" meses="48" fecha="2019-11-30"/>
+			</Estados>
+			<Llave>10102625029239003939319728570000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="324805950" fechaApertura="2019-12-17" fechaVencimiento="2019-12-20" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-01-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-01-31" fechaLimitePago="2019-12-20" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-01-31"/>
+				<EstadoOrigen codigo="0" fecha="2019-12-17"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-01-31"/>
+			</Estados>
+			<Llave>10102625029239003939324805950000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="324806030" fechaApertura="2019-12-17" fechaVencimiento="2020-01-23" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-01-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-01-31" fechaLimitePago="2020-01-23" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-01-31"/>
+				<EstadoOrigen codigo="0" fecha="2019-12-17"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-01-31"/>
+			</Estados>
+			<Llave>10102625029239003939324806030000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="338883940" fechaApertura="2020-05-12" fechaVencimiento="2020-05-28" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-06-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-06-10" fechaLimitePago="2020-05-28" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-06-30"/>
+				<EstadoOrigen codigo="0" fecha="2020-05-12"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-06-30"/>
+			</Estados>
+			<Llave>10102625029239003939338883940000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="346723210" fechaApertura="2020-08-03" fechaVencimiento="2020-08-20" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="1"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-08-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-08-28" fechaLimitePago="2020-08-20" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2020-08-03"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-08-31"/>
+			</Estados>
+			<Llave>10102625029239003939346723210000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="351378240" fechaApertura="2020-09-15" fechaVencimiento="2020-10-01" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-09-30" fechaLimitePago="2020-10-01" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-09-30"/>
+				<EstadoOrigen codigo="0" fecha="2020-09-15"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-09-30"/>
+			</Estados>
+			<Llave>10102625029239003939351378240000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="355270460" fechaApertura="2020-10-21" fechaVencimiento="2020-11-05" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-11-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-11-12" fechaLimitePago="2020-11-05" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-11-30"/>
+				<EstadoOrigen codigo="0" fecha="2020-10-21"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-11-30"/>
+			</Estados>
+			<Llave>10102625029239003939355270460000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="360176190" fechaApertura="2020-11-30" fechaVencimiento="2020-12-15" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-12-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-12-16" fechaLimitePago="2020-12-15" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-12-31"/>
+				<EstadoOrigen codigo="0" fecha="2020-11-30"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-12-31"/>
+			</Estados>
+			<Llave>10102625029239003939360176190000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="360176310" fechaApertura="2020-11-30" fechaVencimiento="2020-12-29" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-12-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-12-16" fechaLimitePago="2020-12-29" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-12-31"/>
+				<EstadoOrigen codigo="0" fecha="2020-11-30"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-12-31"/>
+			</Estados>
+			<Llave>10102625029239003939360176310000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BEL STAR S A" numero="372527980" fechaApertura="2021-03-11" fechaVencimiento="2021-03-23" comportamiento="----------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="BEL STAR S.A." ciudad="TOCANCIPA" codigoDaneCiudad="25817000" codSuscriptor="390039" tipoIdentificacion="2" identificacion="00800018359" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="1" tipoContrato="2" ejecucionContrato="1" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2021-03-31" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2021-03-22" fechaLimitePago="2021-03-23" periodicidad="6" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2021-03-31"/>
+				<EstadoOrigen codigo="0" fecha="2021-03-11"/>
+				<EstadoPago codigo="08" meses="48" fecha="2021-03-31"/>
+			</Estados>
+			<Llave>10102625029239003939372527980000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="NATURA         COSMETICOS" numero="000012853" fechaApertura="2020-07-27" fechaVencimiento="2020-08-18" comportamiento="N---------------------------------------------- " formaPago="1" probabilidadIncumplimiento="0.0" situacionTitular="0" oficina="SECTOR CEREZO ASTRID" ciudad="BOGOT" codigoDaneCiudad="00000000" codSuscriptor="390088" tipoIdentificacion="2" identificacion="00830024974" sector="3" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LAB" tipoObligacion="2" tipoContrato="2" ejecucionContrato="2" mesesPermanencia="0" calidadDeudor="00" garantia="2"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-09-30" calificacion="-" saldoActual="0.0" saldoMora="0.0" disponible="-1" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-09-30" fechaLimitePago="2020-09-30" periodicidad="9" totalCuotas="1" valorInicial="-1" cuotasCanceladas="1"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-08-31"/>
+				<EstadoOrigen codigo="0" fecha="2020-07-27"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-09-30"/>
+			</Estados>
+			<Llave>10102625029239008839000012853000000000</Llave>
+		</CuentaCartera>
+		<CuentaCartera bloqueada="false" entidad="BCO DE BOGOTA" numero="453356724" fechaApertura="2018-04-05" fechaVencimiento="2021-04-05" comportamiento="NNNNNNNNNNNNNNNNNNNNNNNNNN--------------------- " formaPago="1" probabilidadIncumplimiento="0.0" calificacion="1" situacionTitular="0" oficina="0019-BARRIO RESTREPO" ciudad="BOGOTA DC" codigoDaneCiudad="11001000" codSuscriptor="400041" tipoIdentificacion="2" identificacion="00860002964" sector="1" calificacionHD="true">
+			<Caracteristicas tipoCuenta="LBZ" tipoObligacion="2" tipoContrato="1" ejecucionContrato="2" mesesPermanencia="0" calidadDeudor="00" garantia="Q"/>
+			<Valores>
+				<Valor moneda="1" fecha="2020-06-30" calificacion="1" saldoActual="0.0" saldoMora="0.0" disponible="0.0" cuota="0.0" cuotasMora="0" diasMora="0" fechaPagoCuota="2020-06-08" fechaLimitePago="2020-06-30" periodicidad="9" totalCuotas="25" valorInicial="25100000.0" cuotasCanceladas="25"/>
+			</Valores>
+			<Estados>
+				<EstadoCuenta codigo="03" fecha="2020-06-08"/>
+				<EstadoOrigen codigo="0" fecha="2018-04-05"/>
+				<EstadoPago codigo="08" meses="48" fecha="2020-06-08"/>
+			</Estados>
+			<Llave>10102625029240004140453356724000000000</Llave>
+		</CuentaCartera>
+		<EndeudamientoGlobal calificacion="A" fuente="S" saldoPendiente="627000" tipoCredito="CNS" moneda="ML" numeroCreditos="1" independiente="" fechaReporte="2020-12-31">
+			<Entidad nombre="BOGOTA - BC                  0" nit="00860002964" sector="1"/>
+			<Garantia tipo="0" valor="0.0"/>
+			<Llave>1010262502922020123101000001LSAO</Llave>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="-" fuente="DC" saldoPendiente="40000" tipoCredito="CNS" moneda="MC" numeroCreditos="1" independiente="" fechaReporte="2020-09-30">
+			<Entidad nombre="MARKETING      PERSONAL S.A." nit="00811018771" sector="3 "/>
+			<Garantia tipo="9" valor="-1"/>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="A" fuente="S" saldoPendiente="467000" tipoCredito="CNS" moneda="ML" numeroCreditos="1" independiente="" fechaReporte="2020-06-30">
+			<Entidad nombre="COLPATRIA - BC               0" nit="00860034594" sector="1"/>
+			<Garantia tipo="0" valor="0.0"/>
+			<Llave>1010262502922020063001000042LSAO</Llave>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="-" fuente="DC" saldoPendiente="221000" tipoCredito="CNS" moneda="MC" numeroCreditos="1" independiente="" fechaReporte="2020-09-30">
+			<Entidad nombre="NOVAVENTA S A" nit="00811025289" sector="3 "/>
+			<Garantia tipo="9" valor="-1"/>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="-" fuente="DC" saldoPendiente="269000" tipoCredito="CNS" moneda="MC" numeroCreditos="1" independiente="" fechaReporte="2020-12-31">
+			<Entidad nombre="NOVAVENTA S A" nit="00811025289" sector="3 "/>
+			<Garantia tipo="9" valor="-1"/>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="A" fuente="S" saldoPendiente="375000" tipoCredito="CNS" moneda="ML" numeroCreditos="1" independiente="" fechaReporte="2020-12-31">
+			<Entidad nombre="COLPATRIA - BC               0" nit="00860034594" sector="1"/>
+			<Garantia tipo="0" valor="0.0"/>
+			<Llave>1010262502922020123101000042LSAO</Llave>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="-" fuente="DC" saldoPendiente="640000" tipoCredito="CNS" moneda="MC" numeroCreditos="1" independiente="" fechaReporte="2020-12-31">
+			<Entidad nombre="MARKETING      PERSONAL S.A." nit="00811018771" sector="3 "/>
+			<Garantia tipo="9" valor="-1"/>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="A" fuente="S" saldoPendiente="685000" tipoCredito="CNS" moneda="ML" numeroCreditos="1" independiente="" fechaReporte="2020-09-30">
+			<Entidad nombre="BOGOTA - BC                  0" nit="00860002964" sector="1"/>
+			<Garantia tipo="0" valor="0.0"/>
+			<Llave>1010262502922020093001000001LSAO</Llave>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="A" fuente="S" saldoPendiente="735000" tipoCredito="CNS" moneda="ML" numeroCreditos="1" independiente="" fechaReporte="2020-06-30">
+			<Entidad nombre="BOGOTA - BC                  0" nit="00860002964" sector="1"/>
+			<Garantia tipo="0" valor="0.0"/>
+			<Llave>1010262502922020063001000001LSAO</Llave>
+		</EndeudamientoGlobal>
+		<EndeudamientoGlobal calificacion="A" fuente="S" saldoPendiente="502000" tipoCredito="CNS" moneda="ML" numeroCreditos="1" independiente="" fechaReporte="2020-09-30">
+			<Entidad nombre="COLPATRIA - BC               0" nit="00860034594" sector="1"/>
+			<Garantia tipo="0" valor="0.0"/>
+			<Llave>1010262502922020093001000042LSAO</Llave>
+		</EndeudamientoGlobal>
+		<Consulta fecha="2021-05-12" tipoCuenta="TDC" entidad="SERFINANSA S.A SAO" oficina="------------------" ciudad="------------" razon="00" cantidad="01" nitSuscriptor="00860043186" sector="1">
+			<Llave>10102625029202</Llave>
+		</Consulta>
+		<Consulta fecha="2021-02-23" tipoCuenta="CAB" entidad="BCO DE BOGOTAD EMO" oficina="------------------" ciudad="------------" razon="00" cantidad="01" nitSuscriptor="00860002964" sector="1">
+			<Llave>10102625029201</Llave>
+		</Consulta>
+		<Consulta fecha="2020-11-25" tipoCuenta="CAB" entidad="BCO DE BOGOTAD EMO" oficina="------------------" ciudad="------------" razon="00" cantidad="01" nitSuscriptor="00860002964" sector="1">
+			<Llave>10102625029204</Llave>
+		</Consulta>
+		<Consulta fecha="2020-11-23" tipoCuenta="LAB" entidad="LA SANTE VITAL" oficina="------------------" ciudad="------------" razon="01" cantidad="01" nitSuscriptor="00830503732" sector="3">
+			<Llave>10102625029203</Llave>
+		</Consulta>
+		<productosValores producto="62" valor1="1835" valor2="1284" valor3="2385" valor4="0" valor5="0" valor6="0" valor7="0" valor8="0" valor9="0" valor10="0" valor1smlv="2.02" valor2smlv="1.414" valor3smlv="2.626" valor4smlv="0.0" valor5smlv="0.0" valor6smlv="0.0" valor7smlv="0.0" valor8smlv="0.0" valor9smlv="0.0" valor10smlv="0.0" razon1="0099" razon2="00000" razon3="00000" razon4="00000" razon5="00000" razon6="00000" razon7="00000" razon8="00000" razon9="00000" razon10="00000"/>
+		<InfoAgregada>
+			<Resumen>
+				<Principales creditoVigentes="6" creditosCerrados="68" creditosActualesNegativos="0" histNegUlt12Meses="0" cuentasAbiertasAHOCCB="1" cuentasCerradasAHOCCB="2" consultadasUlt6meses="1" desacuerdosALaFecha="0" antiguedadDesde="2002-04-12" reclamosVigentes="0"/>
+				<Saldos saldoTotalEnMora="0.0" saldoM30="0.0" saldoM60="0.0" saldoM90="0.0" cuotaMensual="473.0" saldoCreditoMasAlto="575.0" saldoTotal="1204.0">
+					<Sector sector="1" saldo="811.0" participacion="67.35880398671097"/>
+					<Sector sector="2" saldo="0.0" participacion="0.0"/>
+					<Sector sector="3" saldo="393.0" participacion="32.64119601328904"/>
+					<Sector sector="4" saldo="0.0" participacion="0.0"/>
+					<Mes fecha="2021-04-24" saldoTotalMora="0" saldoTotal="150000"/>
+					<Mes fecha="2021-03-24" saldoTotalMora="0" saldoTotal="1054000"/>
+					<Mes fecha="2021-02-24" saldoTotalMora="0" saldoTotal="986000"/>
+					<Mes fecha="2021-01-24" saldoTotalMora="0" saldoTotal="1230000"/>
+					<Mes fecha="2020-12-24" saldoTotalMora="0" saldoTotal="1910000"/>
+					<Mes fecha="2020-11-24" saldoTotalMora="0" saldoTotal="1484000"/>
+					<Mes fecha="2020-10-24" saldoTotalMora="0" saldoTotal="1887000"/>
+					<Mes fecha="2020-09-24" saldoTotalMora="0" saldoTotal="1448000"/>
+					<Mes fecha="2020-08-24" saldoTotalMora="0" saldoTotal="2428000"/>
+					<Mes fecha="2020-07-24" saldoTotalMora="0" saldoTotal="1557000"/>
+					<Mes fecha="2020-06-24" saldoTotalMora="0" saldoTotal="1553000"/>
+					<Mes fecha="2020-05-24" saldoTotalMora="0" saldoTotal="10333000"/>
+					<Mes fecha="2020-04-24" saldoTotalMora="0" saldoTotal="11101000"/>
+					<Mes fecha="2020-03-24" saldoTotalMora="0" saldoTotal="11965000"/>
+					<Mes fecha="2020-02-24" saldoTotalMora="0" saldoTotal="13040000"/>
+					<Mes fecha="2020-01-24" saldoTotalMora="0" saldoTotal="14033000"/>
+					<Mes fecha="2019-12-24" saldoTotalMora="0" saldoTotal="14545000"/>
+					<Mes fecha="2019-11-24" saldoTotalMora="0" saldoTotal="16025000"/>
+					<Mes fecha="2019-10-24" saldoTotalMora="0" saldoTotal="16777000"/>
+					<Mes fecha="2019-09-24" saldoTotalMora="0" saldoTotal="17387000"/>
+					<Mes fecha="2019-08-24" saldoTotalMora="0" saldoTotal="19221000"/>
+					<Mes fecha="2019-07-24" saldoTotalMora="0" saldoTotal="19936000"/>
+					<Mes fecha="2019-06-24" saldoTotalMora="0" saldoTotal="19928000"/>
+					<Mes fecha="2019-05-24" saldoTotalMora="0" saldoTotal="21677000"/>
+				</Saldos>
+				<Comportamiento>
+					<Mes fecha="2021-04-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2021-03-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2021-02-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2021-01-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-12-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-11-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-10-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-09-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-08-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-07-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-06-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-05-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-04-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-03-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-02-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2020-01-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-12-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-11-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-10-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-09-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-08-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-07-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-06-24" comportamiento="N" cantidad="0"/>
+					<Mes fecha="2019-05-24" comportamiento="N" cantidad="0"/>
+				</Comportamiento>
+			</Resumen>
+			<Totales>
+				<TipoCuenta codigoTipo="CMZ" tipo="Cartera comercializadoras" calidadDeudor="Principal" cupo="0.0" saldo="150.0" saldoMora="0.0" cuota="150.0"/>
+				<TipoCuenta codigoTipo="ALI" tipo="Cartera de alimentos" calidadDeudor="Principal" cupo="0.0" saldo="51.0" saldoMora="0.0" cuota="51.0"/>
+				<TipoCuenta codigoTipo="TDC" tipo="Tarjeta de crÃ©dito" calidadDeudor="Principal" cupo="6960.0" saldo="811.0" saldoMora="0.0" cuota="80.0"/>
+				<TipoCuenta codigoTipo="CVE" tipo="Cartera vestuario" calidadDeudor="Principal" cupo="192.0" saldo="192.0" saldoMora="0.0" cuota="192.0"/>
+				<Total calidadDeudor="Principal" participacion="100.0" cupo="7152.0" saldo="1204.0" saldoMora="0.0" cuota="473.0"/>
+				<Total calidadDeudor="Codeudor" participacion="0.0" cupo="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0"/>
+			</Totales>
+			<ComposicionPortafolio>
+				<TipoCuenta tipo="AHO" calidadDeudor="Principal" porcentaje="1.0" cantidad="1">
+					<Estado codigo="Activa" cantidad="1"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="ALI" calidadDeudor="Principal" porcentaje="1.0" cantidad="1">
+					<Estado codigo="Al dia" cantidad="1"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="CMZ" calidadDeudor="Principal" porcentaje="1.0" cantidad="1">
+					<Estado codigo="Al dia" cantidad="1"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="CVE" calidadDeudor="Principal" porcentaje="1.0" cantidad="1">
+					<Estado codigo="Al dia" cantidad="1"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="TDC" calidadDeudor="Principal" porcentaje="1.0" cantidad="3">
+					<Estado codigo="Al dia" cantidad="3"/>
+				</TipoCuenta>
+			</ComposicionPortafolio>
+			<Cheques/>
+			<EvolucionDeuda>
+				<Trimestre fecha="2021-03-01" cuota="426000" cupoTotal="7152000" saldo="1218000" porcentajeUso="0.17030201342281878" score="0.0" calificacion="A" aperturaCuentas="0" cierreCuentas="1" totalAbiertas="7" totalCerradas="70" moraMaxima="M 0" mesesMoraMaxima="0"/>
+				<Trimestre fecha="2020-12-01" cuota="947000" cupoTotal="7285000" saldo="1851833" porcentajeUso="0.25419812399908487" score="0.0" calificacion="A" aperturaCuentas="0" cierreCuentas="4" totalAbiertas="8" totalCerradas="69" moraMaxima="M 0" mesesMoraMaxima="0"/>
+				<Trimestre fecha="2020-09-01" cuota="517333" cupoTotal="7033666" saldo="1844666" porcentajeUso="0.2622624520164921" score="0.0" calificacion="A" aperturaCuentas="0" cierreCuentas="4" totalAbiertas="12" totalCerradas="65" moraMaxima="M 0" mesesMoraMaxima="0"/>
+				<AnalisisPromedio cuota="-17.7" cupoTotal="1.7" saldo="-34.0" porcentajeUso="-9.196043859367336" score="0.0" calificacion="0" aperturaCuentas="0.0" cierreCuentas="-75.0" totalAbiertas="-41.66666666666667" totalCerradas="7.6923076923076925" moraMaxima="0"/>
+			</EvolucionDeuda>
+			<HistoricoSaldos>
+				<TipoCuenta tipo="ALI">
+					<Trimestre fecha="2021-03-01" totalCuentas="1" cuentasConsideradas="1" saldo="101333"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="1" cuentasConsideradas="1" saldo="121333"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="1" cuentasConsideradas="1" saldo="221000"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="1" cuentasConsideradas="1" saldo="221000"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="1" cuentasConsideradas="1" saldo="221000"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="1" cuentasConsideradas="1" saldo="222666"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="1" cuentasConsideradas="1" saldo="168333"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="1" cuentasConsideradas="1" saldo="226000"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="CAB">
+					<Trimestre fecha="2021-03-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="CAV">
+					<Trimestre fecha="2021-03-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="CMZ">
+					<Trimestre fecha="2021-03-01" totalCuentas="1" cuentasConsideradas="1" saldo="51000"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="2" cuentasConsideradas="2" saldo="193833"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="2" cuentasConsideradas="1" saldo="53000"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="2" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="2" cuentasConsideradas="2" saldo="216500"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="2" cuentasConsideradas="2" saldo="198666"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="2" cuentasConsideradas="2" saldo="349000"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="2" cuentasConsideradas="2" saldo="277333"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="COM">
+					<Trimestre fecha="2021-03-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="CTC">
+					<Trimestre fecha="2021-03-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="CVE">
+					<Trimestre fecha="2021-03-01" totalCuentas="1" cuentasConsideradas="1" saldo="192000"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="1" cuentasConsideradas="1" saldo="325000"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="1" cuentasConsideradas="1" saldo="273666"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="1" cuentasConsideradas="1" saldo="103333"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="1" cuentasConsideradas="1" saldo="106333"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="1" cuentasConsideradas="1" saldo="155333"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="1" cuentasConsideradas="1" saldo="357000"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="1" cuentasConsideradas="1" saldo="180333"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="LAB">
+					<Trimestre fecha="2021-03-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="3" cuentasConsideradas="3" saldo="151000"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="3" cuentasConsideradas="1" saldo="101000"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="1" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="2" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="3" cuentasConsideradas="2" saldo="42000"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="4" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="6" cuentasConsideradas="2" saldo="209000"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="LBZ">
+					<Trimestre fecha="2021-03-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="0" cuentasConsideradas="0" saldo="0"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="1" cuentasConsideradas="1" saldo="6099333"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="1" cuentasConsideradas="1" saldo="10998666"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="1" cuentasConsideradas="1" saldo="13154000"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="1" cuentasConsideradas="1" saldo="15239000"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="1" cuentasConsideradas="1" saldo="17576333"/>
+				</TipoCuenta>
+				<TipoCuenta tipo="TDC">
+					<Trimestre fecha="2021-03-01" totalCuentas="3" cuentasConsideradas="2" saldo="873666"/>
+					<Trimestre fecha="2020-12-01" totalCuentas="3" cuentasConsideradas="2" saldo="1060666"/>
+					<Trimestre fecha="2020-09-01" totalCuentas="3" cuentasConsideradas="2" saldo="1196000"/>
+					<Trimestre fecha="2020-06-01" totalCuentas="3" cuentasConsideradas="2" saldo="1238666"/>
+					<Trimestre fecha="2020-03-01" totalCuentas="3" cuentasConsideradas="2" saldo="1542333"/>
+					<Trimestre fecha="2019-12-01" totalCuentas="3" cuentasConsideradas="2" saldo="2037666"/>
+					<Trimestre fecha="2019-09-01" totalCuentas="3" cuentasConsideradas="2" saldo="2734666"/>
+					<Trimestre fecha="2019-06-01" totalCuentas="3" cuentasConsideradas="2" saldo="2790333"/>
+				</TipoCuenta>
+				<Totales fecha="2021-03-01" totalCuentas="8" cuentasConsideradas="5" saldo="1218000.0"/>
+				<Totales fecha="2020-12-01" totalCuentas="11" cuentasConsideradas="9" saldo="1851833.3"/>
+				<Totales fecha="2020-09-01" totalCuentas="12" cuentasConsideradas="6" saldo="1844666.7"/>
+				<Totales fecha="2020-06-01" totalCuentas="11" cuentasConsideradas="5" saldo="7662333.3"/>
+				<Totales fecha="2020-03-01" totalCuentas="12" cuentasConsideradas="7" saldo="13084833.3"/>
+				<Totales fecha="2019-12-01" totalCuentas="13" cuentasConsideradas="9" saldo="15810333.3"/>
+				<Totales fecha="2019-09-01" totalCuentas="14" cuentasConsideradas="7" saldo="18848000.0"/>
+				<Totales fecha="2019-06-01" totalCuentas="16" cuentasConsideradas="9" saldo="21259333.3"/>
+			</HistoricoSaldos>
+			<ResumenEndeudamiento>
+				<Trimestre fecha="2020-12-01">
+					<Sector sector="Financiero" codigoSector="1" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="2" valor="1002.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Cooperativo" codigoSector="2" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Real" codigoSector="3" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="2" valor="909.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Telcos" codigoSector="4" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+				</Trimestre>
+				<Trimestre fecha="2020-09-01">
+					<Sector sector="Financiero" codigoSector="1" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="2" valor="1187.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Cooperativo" codigoSector="2" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Real" codigoSector="3" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="2" valor="261.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Telcos" codigoSector="4" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+				</Trimestre>
+				<Trimestre fecha="2020-06-01">
+					<Sector sector="Financiero" codigoSector="1" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="2" valor="1202.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Cooperativo" codigoSector="2" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Real" codigoSector="3" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+					<Sector sector="Telcos" codigoSector="4" garantiaAdmisible="0" garantiaOtro="0">
+						<Cartera tipo="Comercial" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Hipotecario" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Consumo" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="Tarjeta de CrÃ©dito" numeroCuentas="0" valor="0.0"/>
+						<Cartera tipo="MicrocrÃ©dito" numeroCuentas="0" valor="0.0"/>
+					</Sector>
+				</Trimestre>
+			</ResumenEndeudamiento>
+		</InfoAgregada>
+		<InfoAgregadaMicrocredito>
+			<Resumen>
+				<PerfilGeneral>
+					<CreditosVigentes sectorFinanciero="3" sectorCooperativo="0" sectorReal="3" sectorTelcos="0" totalComoPrincipal="6" totalComoCodeudorYOtros="0"/>
+					<CreditosCerrados sectorFinanciero="4" sectorCooperativo="0" sectorReal="60" sectorTelcos="4" totalComoPrincipal="67" totalComoCodeudorYOtros="1"/>
+					<CreditosReestructurados sectorFinanciero="0" sectorCooperativo="0" sectorReal="0" sectorTelcos="0" totalComoPrincipal="0" totalComoCodeudorYOtros="0"/>
+					<CreditosRefinanciados sectorFinanciero="0" sectorCooperativo="0" sectorReal="0" sectorTelcos="0" totalComoPrincipal="0" totalComoCodeudorYOtros="0"/>
+					<ConsultaUlt6Meses sectorFinanciero="3" sectorCooperativo="0" sectorReal="1" sectorTelcos="0" totalComoPrincipal="0" totalComoCodeudorYOtros="0"/>
+					<Desacuerdos sectorFinanciero="0" sectorCooperativo="0" sectorReal="0" sectorTelcos="0" totalComoPrincipal="0" totalComoCodeudorYOtros="0"/>
+					<AntiguedadDesde sectorFinanciero="2002-04-12" sectorReal="2013-07-16" sectorTelcos="2009-07-09"/>
+				</PerfilGeneral>
+				<VectorSaldosYMoras poseeSectorCooperativo="false" poseeSectorFinanciero="true" poseeSectorReal="true" poseeSectorTelcos="true">
+					<SaldosYMoras fecha="2021-04-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="150.0" morasMaxSectorReal="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2021-03-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1054.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2021-02-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="986.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2021-01-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1230.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-12-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1910.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-11-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1484.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-10-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1887.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-09-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1448.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="-" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-08-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="2428.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="N" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-07-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1557.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="-" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-06-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="1553.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="-" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+					<SaldosYMoras fecha="2020-05-24" totalCuentasMora="0" saldoDeudaTotalMora="0.0" saldoDeudaTotal="10333.0" morasMaxSectorFinanciero="N" morasMaxSectorReal="N" morasMaxSectorTelcos="-" morasMaximas="N" numCreditos30="0" numCreditosMayorIgual60="0"/>
+				</VectorSaldosYMoras>
+				<EndeudamientoActual>
+					<Sector codSector="3">
+						<TipoCuenta tipoCuenta="ALI">
+							<Usuario tipoUsuario="Principal">
+								<Cuenta estadoActual="Al dÃ­a" calificacion="-" valorInicial="0.0" saldoActual="51.0" saldoMora="0.0" cuotaMes="51.0" comportamientoNegativo="false" totalDeudaCarteras="1204.0"/>
+							</Usuario>
+						</TipoCuenta>
+						<TipoCuenta tipoCuenta="CMZ">
+							<Usuario tipoUsuario="Principal">
+								<Cuenta estadoActual="Al dÃ­a" calificacion="-" valorInicial="0.0" saldoActual="150.0" saldoMora="0.0" cuotaMes="150.0" comportamientoNegativo="false" totalDeudaCarteras="1204.0"/>
+							</Usuario>
+						</TipoCuenta>
+						<TipoCuenta tipoCuenta="CVE">
+							<Usuario tipoUsuario="Principal">
+								<Cuenta estadoActual="Al dÃ­a" calificacion="-" valorInicial="192.0" saldoActual="192.0" saldoMora="0.0" cuotaMes="192.0" comportamientoNegativo="false" totalDeudaCarteras="1204.0"/>
+							</Usuario>
+						</TipoCuenta>
+					</Sector>
+					<Sector codSector="1">
+						<TipoCuenta tipoCuenta="TDC">
+							<Usuario tipoUsuario="Principal">
+								<Cuenta estadoActual="Al dÃ­a" calificacion="A" valorInicial="0.0" saldoActual="575.0" saldoMora="0.0" cuotaMes="29.0" comportamientoNegativo="false" totalDeudaCarteras="1204.0"/>
+								<Cuenta estadoActual="Al dÃ­a" calificacion="-" valorInicial="6060.0" saldoActual="236.0" saldoMora="0.0" cuotaMes="51.0" comportamientoNegativo="false" totalDeudaCarteras="1204.0"/>
+								<Cuenta estadoActual="Al dÃ­a" calificacion="A" valorInicial="900.0" saldoActual="0.0" saldoMora="0.0" cuotaMes="0.0" comportamientoNegativo="false" totalDeudaCarteras="1204.0"/>
+							</Usuario>
+						</TipoCuenta>
+					</Sector>
+				</EndeudamientoActual>
+				<ImagenTendenciaEndeudamiento>
+					<Series serie="Cartera vestuario">
+						<Valores>
+							<Valor valor="100.0" fecha="2021-03-24"/>
+							<Valor valor="100.0" fecha="2020-12-24"/>
+							<Valor valor="100.0" fecha="2020-11-24"/>
+							<Valor valor="100.0" fecha="2020-10-24"/>
+							<Valor valor="100.0" fecha="2020-09-24"/>
+							<Valor valor="100.0" fecha="2020-08-24"/>
+							<Valor valor="100.0" fecha="2020-07-24"/>
+							<Valor valor="100.0" fecha="2020-06-24"/>
+							<Valor valor="100.0" fecha="2020-05-24"/>
+						</Valores>
+					</Series>
+					<Series serie="Cartera Libranza">
+						<Valores>
+							<Valor valor="0.0" fecha="2020-06-24"/>
+							<Valor valor="35.0" fecha="2020-05-24"/>
+						</Valores>
+					</Series>
+					<Series serie="Tarjeta de crÃ©dito">
+						<Valores>
+							<Valor valor="11.7" fecha="2021-03-24"/>
+							<Valor valor="12.5" fecha="2021-02-24"/>
+							<Valor valor="13.5" fecha="2021-01-24"/>
+							<Valor valor="14.4" fecha="2020-12-24"/>
+							<Valor valor="15.1" fecha="2020-11-24"/>
+							<Valor valor="16.2" fecha="2020-10-24"/>
+							<Valor valor="17.1" fecha="2020-09-24"/>
+							<Valor valor="18.3" fecha="2020-08-24"/>
+							<Valor valor="17.7" fecha="2020-07-24"/>
+							<Valor valor="18.0" fecha="2020-06-24"/>
+							<Valor valor="17.4" fecha="2020-05-24"/>
+						</Valores>
+					</Series>
+				</ImagenTendenciaEndeudamiento>
+			</Resumen>
+			<AnalisisVectores>
+				<Sector nombreSector="Sector Financiero">
+					<Cuenta entidad="BCO DE BOGOTA" numeroCuenta="453356724" tipoCuenta="LBZ" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="BCO DE BOGOTA" numeroCuenta="450668694" tipoCuenta="TDC" estado="Al dÃ­a" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="CREDIFACIL     COLPATRIA" numeroCuenta="000000292" tipoCuenta="TDC" estado="Al dÃ­a" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="SERFINANSA S.A SAO" numeroCuenta="899800382" tipoCuenta="TDC" estado="Al dÃ­a" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<MorasMaximas>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-04-24"/>
+					</MorasMaximas>
+				</Sector>
+				<Sector nombreSector="Sector Real">
+					<Cuenta entidad="NOVAVENTA S A" numeroCuenta="026250292" tipoCuenta="ALI" estado="Al dÃ­a" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="AVON           COLOMBIA SAS" numeroCuenta="026250292" tipoCuenta="CMZ" estado="Al dÃ­a" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="LEBON" numeroCuenta="026250292" tipoCuenta="CMZ" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="MARKETING      PERSONAL S.A." numeroCuenta="026250292" tipoCuenta="CVE" estado="Al dÃ­a" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="270747890" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24"/>
+						<CaracterFecha fecha="2019-12-24"/>
+						<CaracterFecha fecha="2019-11-24"/>
+						<CaracterFecha fecha="2019-10-24"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="301536580" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24"/>
+						<CaracterFecha fecha="2019-12-24"/>
+						<CaracterFecha fecha="2019-11-24"/>
+						<CaracterFecha fecha="2019-10-24"/>
+						<CaracterFecha fecha="2019-09-24"/>
+						<CaracterFecha fecha="2019-08-24"/>
+						<CaracterFecha fecha="2019-07-24"/>
+						<CaracterFecha fecha="2019-06-24"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="303715370" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24"/>
+						<CaracterFecha fecha="2019-12-24"/>
+						<CaracterFecha fecha="2019-11-24"/>
+						<CaracterFecha fecha="2019-10-24"/>
+						<CaracterFecha fecha="2019-09-24"/>
+						<CaracterFecha fecha="2019-08-24"/>
+						<CaracterFecha fecha="2019-07-24"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="307184540" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24"/>
+						<CaracterFecha fecha="2019-12-24"/>
+						<CaracterFecha fecha="2019-11-24"/>
+						<CaracterFecha fecha="2019-10-24"/>
+						<CaracterFecha fecha="2019-09-24"/>
+						<CaracterFecha fecha="2019-08-24"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="309512840" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24"/>
+						<CaracterFecha fecha="2019-12-24"/>
+						<CaracterFecha fecha="2019-11-24"/>
+						<CaracterFecha fecha="2019-10-24"/>
+						<CaracterFecha fecha="2019-09-24"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="313624180" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24"/>
+						<CaracterFecha fecha="2019-12-24"/>
+						<CaracterFecha fecha="2019-11-24"/>
+						<CaracterFecha fecha="2019-10-24"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="319728570" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24"/>
+						<CaracterFecha fecha="2019-12-24"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="324805950" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="324806030" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24"/>
+						<CaracterFecha fecha="2020-05-24"/>
+						<CaracterFecha fecha="2020-04-24"/>
+						<CaracterFecha fecha="2020-03-24"/>
+						<CaracterFecha fecha="2020-02-24"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="338883940" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24"/>
+						<CaracterFecha fecha="2020-07-24"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="346723210" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="351378240" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="355270460" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="360176190" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="360176310" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="BEL STAR S A" numeroCuenta="372527980" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="NATURA         COSMETICOS" numeroCuenta="000012853" tipoCuenta="LAB" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<MorasMaximas>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-03-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-04-24" saldoDeudaTotalMora="N"/>
+					</MorasMaximas>
+				</Sector>
+				<Sector nombreSector="Sector Telcos">
+					<Cuenta entidad="MOVISTAR" numeroCuenta="2587-6572" tipoCuenta="COM" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24"/>
+						<CaracterFecha fecha="2021-01-24"/>
+						<CaracterFecha fecha="2020-12-24"/>
+						<CaracterFecha fecha="2020-11-24"/>
+						<CaracterFecha fecha="2020-10-24"/>
+						<CaracterFecha fecha="2020-09-24"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="-"/>
+					</Cuenta>
+					<Cuenta entidad="MOVISTAR" numeroCuenta="023962587" tipoCuenta="CTC" estado="Pago Vol" contieneDatos="true">
+						<CaracterFecha fecha="2021-04-24"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+					</Cuenta>
+					<MorasMaximas>
+						<CaracterFecha fecha="2019-05-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-06-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-07-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-09-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2019-11-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2019-12-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-01-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-02-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-03-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-04-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-05-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-06-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-07-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-08-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-09-24" saldoDeudaTotalMora="-"/>
+						<CaracterFecha fecha="2020-10-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-11-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2020-12-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-01-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-02-24" saldoDeudaTotalMora="N"/>
+						<CaracterFecha fecha="2021-03-24"/>
+						<CaracterFecha fecha="2021-04-24"/>
+					</MorasMaximas>
+				</Sector>
+			</AnalisisVectores>
+			<EvolucionDeuda>
+				<Trimestres>
+					<Trimestre>2021/06</Trimestre>
+					<Trimestre>2021/03</Trimestre>
+					<Trimestre>2020/12</Trimestre>
+					<Trimestre>2020/09</Trimestre>
+					<Trimestre>2020/06</Trimestre>
+					<Trimestre>2020/03</Trimestre>
+				</Trimestres>
+				<EvolucionDeudaSector codSector="3" nombreSector="Real">
+					<EvolucionDeudaTipoCuenta tipoCuenta="ALI">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="ALI" num="1" cupoInicial="0.0" saldo="51.0" saldoMora="0.0" cuota="51.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="ALI" num="1" cupoInicial="0.0" saldo="51.0" saldoMora="0.0" cuota="51.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="ALI" num="1" cupoInicial="0.0" saldo="269.0" saldoMora="0.0" cuota="269.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="ALI" num="1" cupoInicial="0.0" saldo="221.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="ALI" num="1" cupoInicial="0.0" saldo="221.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="ALI" num="1" cupoInicial="0.0" saldo="221.0" saldoMora="0.0" cuota="221.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+					</EvolucionDeudaTipoCuenta>
+					<EvolucionDeudaTipoCuenta tipoCuenta="CMZ">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="CMZ" num="1" cupoInicial="0.0" saldo="150.0" saldoMora="0.0" cuota="150.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="CMZ" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="CMZ" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="CMZ" num="2" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="CMZ" num="2" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="CMZ" num="2" cupoInicial="0.0" saldo="98.0" saldoMora="0.0" cuota="98.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+					</EvolucionDeudaTipoCuenta>
+					<EvolucionDeudaTipoCuenta tipoCuenta="CVE">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="CVE" num="1" cupoInicial="192.0" saldo="192.0" saldoMora="0.0" cuota="192.0" porcentajeDeuda="100.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="CVE" num="1" cupoInicial="192.0" saldo="192.0" saldoMora="0.0" cuota="192.0" porcentajeDeuda="100.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="CVE" num="1" cupoInicial="640.0" saldo="640.0" saldoMora="0.0" cuota="640.0" porcentajeDeuda="100.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="CVE" num="1" cupoInicial="40.0" saldo="40.0" saldoMora="0.0" cuota="40.0" porcentajeDeuda="100.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="CVE" num="1" cupoInicial="131.0" saldo="131.0" saldoMora="0.0" cuota="131.0" porcentajeDeuda="100.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="CVE" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+					</EvolucionDeudaTipoCuenta>
+					<EvolucionDeudaTipoCuenta tipoCuenta="LAB">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="LAB" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="LAB" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="LAB" num="2" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="LAB" num="2" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="LAB" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="LAB" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+					</EvolucionDeudaTipoCuenta>
+				</EvolucionDeudaSector>
+				<EvolucionDeudaSector codSector="4" nombreSector="Telcos">
+					<EvolucionDeudaTipoCuenta tipoCuenta="COM">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="COM" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="COM" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="COM" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="COM" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="COM" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="COM" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+					</EvolucionDeudaTipoCuenta>
+					<EvolucionDeudaTipoCuenta tipoCuenta="CTC">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="CTC" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="CTC" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="CTC" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="CTC" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="CTC" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="116.0" porcentajeDeuda="0.0" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="CTC" num="1" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+					</EvolucionDeudaTipoCuenta>
+				</EvolucionDeudaSector>
+				<EvolucionDeudaSector codSector="1" nombreSector="Financiero">
+					<EvolucionDeudaTipoCuenta tipoCuenta="LBZ">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="LBZ" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="LBZ" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="LBZ" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="LBZ" num="0" cupoInicial="0.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="0" textoMenorCalificacion="-"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="LBZ" num="1" cupoInicial="25100.0" saldo="0.0" saldoMora="0.0" cuota="0.0" porcentajeDeuda="0.0" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="LBZ" num="1" cupoInicial="25100.0" saldo="10267.0" saldoMora="0.0" cuota="845.0" porcentajeDeuda="40.9" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+					</EvolucionDeudaTipoCuenta>
+					<EvolucionDeudaTipoCuenta tipoCuenta="TDC">
+						<EvolucionDeudaValorTrimestre trimestre="2021/06" tipoCuenta="TDC" num="3" cupoInicial="6960.0" saldo="811.0" saldoMora="0.0" cuota="80.0" porcentajeDeuda="11.7" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2021/03" tipoCuenta="TDC" num="3" cupoInicial="6960.0" saldo="811.0" saldoMora="0.0" cuota="80.0" porcentajeDeuda="11.7" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/12" tipoCuenta="TDC" num="3" cupoInicial="6960.0" saldo="1001.0" saldoMora="0.0" cuota="86.0" porcentajeDeuda="14.4" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/09" tipoCuenta="TDC" num="3" cupoInicial="6960.0" saldo="1187.0" saldoMora="0.0" cuota="81.0" porcentajeDeuda="17.1" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/06" tipoCuenta="TDC" num="3" cupoInicial="6660.0" saldo="1201.0" saldoMora="0.0" cuota="143.0" porcentajeDeuda="18.0" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+						<EvolucionDeudaValorTrimestre trimestre="2020/03" tipoCuenta="TDC" num="3" cupoInicial="10110.0" saldo="1379.0" saldoMora="0.0" cuota="172.0" porcentajeDeuda="13.6" codMenorCalificacion="1" textoMenorCalificacion="A"/>
+					</EvolucionDeudaTipoCuenta>
+				</EvolucionDeudaSector>
+			</EvolucionDeuda>
+		</InfoAgregadaMicrocredito>
+	</Informe>
+</response>
+

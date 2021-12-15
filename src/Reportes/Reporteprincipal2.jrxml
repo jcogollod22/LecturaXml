@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.17.0.final using JasperReports Library version 6.17.0-6d93193241dd8cc42629e188b94f9e0bc5722efd  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Reporteprincipal" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="12ed2d78-6dfc-4155-bda8-3101d5f353f0">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<parameter name="NOMBREINFORME2" class="java.lang.String"/>
+	<parameter name="NOMBREINFORME3" class="java.lang.String"/>
+	<parameter name="NOMBREINFORME4" class="java.lang.String"/>
+	<parameter name="NOMBREINFORME5" class="java.lang.String"/>
+	<parameter name="NOMBREINFORME6" class="java.lang.String"/>
+	<parameter name="NOMBREINFORME" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<field name="ciudadCuenta" class="java.lang.String">
+		<fieldDescription><![CDATA[ciudadCuenta]]></fieldDescription>
+	</field>
+	<field name="estadoCuenta" class="java.lang.String">
+		<fieldDescription><![CDATA[estadoCuenta]]></fieldDescription>
+	</field>
+	<field name="numeroCuenta" class="java.lang.String">
+		<fieldDescription><![CDATA[numeroCuenta]]></fieldDescription>
+	</field>
+	<field name="fechapermanencia" class="java.lang.String">
+		<fieldDescription><![CDATA[fechapermanencia]]></fieldDescription>
+	</field>
+	<field name="valorsobregiro" class="java.lang.String">
+		<fieldDescription><![CDATA[valorsobregiro]]></fieldDescription>
+	</field>
+	<field name="diasautor" class="java.lang.String">
+		<fieldDescription><![CDATA[diasautor]]></fieldDescription>
+	</field>
+	<field name="chequeDevUltMes" class="java.lang.String">
+		<fieldDescription><![CDATA[chequeDevUltMes]]></fieldDescription>
+	</field>
+	<field name="fechaApertura" class="java.lang.String">
+		<fieldDescription><![CDATA[fechaApertura]]></fieldDescription>
+	</field>
+	<field name="entidadBancaria" class="java.lang.String">
+		<fieldDescription><![CDATA[entidadBancaria]]></fieldDescription>
+	</field>
+	<field name="tipoContrato" class="java.lang.String">
+		<fieldDescription><![CDATA[tipoContrato]]></fieldDescription>
+	</field>
+	<field name="fechaCuenta" class="java.lang.String">
+		<fieldDescription><![CDATA[fechaCuenta]]></fieldDescription>
+	</field>
+	<field name="sucursalCuenta" class="java.lang.String">
+		<fieldDescription><![CDATA[sucursalCuenta]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<pageHeader>
+		<band height="462">
+			<staticText>
+				<reportElement x="81" y="261" width="100" height="30" uuid="907c7128-e329-4384-a640-0c8c2336b440"/>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="82" y="306" width="100" height="30" uuid="6b40af85-bada-4a36-b4e9-8ecbb0361e96"/>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="83" y="346" width="100" height="30" uuid="c94d28a2-3188-48d7-8fce-20e5cc70d68a"/>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="84" y="386" width="100" height="30" uuid="f08123c9-6016-4ec7-858c-29b5c6ff9e64"/>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="90" y="0" width="690" height="30" uuid="02b623bf-2866-44b0-b19f-cd7484bca037"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{NOMBREINFORME}
+				$P{NOMBREINFORME2}
+				$P{NOMBREINFORME3}
+				$P{NOMBREINFORME4}
+				$P{NOMBREINFORME5}
+				$P{NOMBREINFORME6}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="90" y="40" width="690" height="30" uuid="79a0b4d3-4f42-482a-8b19-f7de325d530a"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{NOMBREINFORME2}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="90" y="90" width="690" height="30" uuid="a03efecb-02dc-4a7c-8d33-b42a6250730d"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{NOMBREINFORME3}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="90" y="130" width="690" height="30" uuid="f3e7f538-4319-4e1a-b190-307044fac27a"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{NOMBREINFORME4}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="90" y="169" width="690" height="30" uuid="7d6146eb-fef1-462f-bac9-c8b334d5cb44"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{NOMBREINFORME5}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="90" y="210" width="690" height="30" uuid="a92e1eab-82af-4323-a7e7-a903508b3212"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{NOMBREINFORME6}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<summary>
+		<band height="21"/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beanDataAdapter class="net.sf.jasperreports.data.bean.BeanDataAdapterImpl"><name>Adaptadorhuella</name><factoryClass>pruebaxml.TestFactoryHuellaconsulta</factoryClass><methodName>createBeanCollection</methodName><useFieldDescription>true</useFieldDescription><classpath>D:\Proyect\Pruebaxml\dist\Pruebaxml.jar</classpath></beanDataAdapter>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-javaflow-1209105.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jasperreports-6.17.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="dist/lib/messagebox-4.0.21.jar"/>
+	<classpathentry kind="lib" path="dist/lib/postgresql-9.4.1211.jre7.jar"/>
+	<classpathentry kind="lib" path="dist/Pruebaxml.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
